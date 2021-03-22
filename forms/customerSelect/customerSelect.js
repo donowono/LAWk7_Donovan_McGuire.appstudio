@@ -3,6 +3,7 @@ let query = ""
 let results = ""
 let pw = "Bolognabaddie37!"  
 let netID = "djm42254"
+let allCustomers = []
 
 
 btnName.onclick=function(){
