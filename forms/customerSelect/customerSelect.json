@@ -16,7 +16,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "btnName.json"
+        "txtaCustomers.json"
       ]
     },
     {
@@ -25,7 +25,7 @@
         "forms",
         "customerSelect",
         "Elements",
-        "txt1.json"
+        "lblMessage.json"
       ]
     }
   ],
@@ -49,7 +49,7 @@
   "position": "absolute",
   "script": null,
   "setFocusID": "",
-  "style": "",
+  "style": "height = 100 px;",
   "theme": "",
   "top": "0",
   "width": 320
