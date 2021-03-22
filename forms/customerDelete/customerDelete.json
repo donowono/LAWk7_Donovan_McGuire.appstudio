@@ -45,6 +45,15 @@
         "Elements",
         "btnDel.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "customerDelete",
+        "Elements",
+        "lblMessageDel.json"
+      ]
     }
   ],
   "class": "",
