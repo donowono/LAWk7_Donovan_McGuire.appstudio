@@ -1,3 +1,6 @@
+
+
+
 btnName2.onclick=function(){
   query = "SELECT * FROM customer"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=djm42254&query=" + query)
@@ -11,6 +14,7 @@ btnName2.onclick=function(){
         txtNames.value = "Error code: " + req.status
 }
 }
+
 
 btnDel.onclick=function(){
   let customerDel = inptName.value
